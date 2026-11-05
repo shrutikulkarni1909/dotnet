@@ -1,0 +1,12 @@
+E:\Projects\dotnet\MySolution\MyLibrary\bin\Release\net10.0\MyLibrary.deps.json
+E:\Projects\dotnet\MySolution\MyLibrary\bin\Release\net10.0\MyLibrary.dll
+E:\Projects\dotnet\MySolution\MyLibrary\bin\Release\net10.0\MyLibrary.pdb
+E:\Projects\dotnet\MySolution\MyLibrary\obj\Release\net10.0\MyLibrary.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\dotnet\MySolution\MyLibrary\obj\Release\net10.0\MyLibrary.AssemblyInfoInputs.cache
+E:\Projects\dotnet\MySolution\MyLibrary\obj\Release\net10.0\MyLibrary.AssemblyInfo.cs
+E:\Projects\dotnet\MySolution\MyLibrary\obj\Release\net10.0\MyLibrary.csproj.CoreCompileInputs.cache
+E:\Projects\dotnet\MySolution\MyLibrary\obj\Release\net10.0\MyLibrary.sourcelink.json
+E:\Projects\dotnet\MySolution\MyLibrary\obj\Release\net10.0\MyLibrary.dll
+E:\Projects\dotnet\MySolution\MyLibrary\obj\Release\net10.0\refint\MyLibrary.dll
+E:\Projects\dotnet\MySolution\MyLibrary\obj\Release\net10.0\MyLibrary.pdb
+E:\Projects\dotnet\MySolution\MyLibrary\obj\Release\net10.0\ref\MyLibrary.dll

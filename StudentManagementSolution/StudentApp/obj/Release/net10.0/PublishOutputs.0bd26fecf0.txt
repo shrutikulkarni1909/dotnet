@@ -1,0 +1,7 @@
+E:\Projects\dotnet\StudentManagementSolution\StudentApp\bin\Release\net10.0\publish\StudentApp.exe
+E:\Projects\dotnet\StudentManagementSolution\StudentApp\bin\Release\net10.0\publish\StudentApp.dll
+E:\Projects\dotnet\StudentManagementSolution\StudentApp\bin\Release\net10.0\publish\StudentApp.deps.json
+E:\Projects\dotnet\StudentManagementSolution\StudentApp\bin\Release\net10.0\publish\StudentApp.runtimeconfig.json
+E:\Projects\dotnet\StudentManagementSolution\StudentApp\bin\Release\net10.0\publish\StudentApp.pdb
+E:\Projects\dotnet\StudentManagementSolution\StudentApp\bin\Release\net10.0\publish\StudentLibrary.dll
+E:\Projects\dotnet\StudentManagementSolution\StudentApp\bin\Release\net10.0\publish\StudentLibrary.pdb

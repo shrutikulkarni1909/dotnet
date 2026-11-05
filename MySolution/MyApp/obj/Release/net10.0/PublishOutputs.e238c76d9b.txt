@@ -1,0 +1,7 @@
+E:\Projects\dotnet\MySolution\MyApp\bin\Release\net10.0\publish\MyApp.exe
+E:\Projects\dotnet\MySolution\MyApp\bin\Release\net10.0\publish\MyApp.dll
+E:\Projects\dotnet\MySolution\MyApp\bin\Release\net10.0\publish\MyApp.deps.json
+E:\Projects\dotnet\MySolution\MyApp\bin\Release\net10.0\publish\MyApp.runtimeconfig.json
+E:\Projects\dotnet\MySolution\MyApp\bin\Release\net10.0\publish\MyApp.pdb
+E:\Projects\dotnet\MySolution\MyApp\bin\Release\net10.0\publish\MyLibrary.dll
+E:\Projects\dotnet\MySolution\MyApp\bin\Release\net10.0\publish\MyLibrary.pdb
