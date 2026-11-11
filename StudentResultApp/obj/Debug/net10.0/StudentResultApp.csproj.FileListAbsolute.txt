@@ -1,0 +1,15 @@
+E:\Projects\dotnet\StudentResultApp\obj\Debug\net10.0\StudentResultApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\dotnet\StudentResultApp\obj\Debug\net10.0\StudentResultApp.AssemblyInfoInputs.cache
+E:\Projects\dotnet\StudentResultApp\obj\Debug\net10.0\StudentResultApp.AssemblyInfo.cs
+E:\Projects\dotnet\StudentResultApp\obj\Debug\net10.0\StudentResultApp.csproj.CoreCompileInputs.cache
+E:\Projects\dotnet\StudentResultApp\obj\Debug\net10.0\StudentResultApp.sourcelink.json
+E:\Projects\dotnet\StudentResultApp\bin\Debug\net10.0\StudentResultApp.exe
+E:\Projects\dotnet\StudentResultApp\bin\Debug\net10.0\StudentResultApp.deps.json
+E:\Projects\dotnet\StudentResultApp\bin\Debug\net10.0\StudentResultApp.runtimeconfig.json
+E:\Projects\dotnet\StudentResultApp\bin\Debug\net10.0\StudentResultApp.dll
+E:\Projects\dotnet\StudentResultApp\bin\Debug\net10.0\StudentResultApp.pdb
+E:\Projects\dotnet\StudentResultApp\obj\Debug\net10.0\StudentResultApp.dll
+E:\Projects\dotnet\StudentResultApp\obj\Debug\net10.0\refint\StudentResultApp.dll
+E:\Projects\dotnet\StudentResultApp\obj\Debug\net10.0\StudentResultApp.pdb
+E:\Projects\dotnet\StudentResultApp\obj\Debug\net10.0\StudentResultApp.genruntimeconfig.cache
+E:\Projects\dotnet\StudentResultApp\obj\Debug\net10.0\ref\StudentResultApp.dll

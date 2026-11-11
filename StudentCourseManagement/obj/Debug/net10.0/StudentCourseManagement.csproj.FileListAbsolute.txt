@@ -1,0 +1,15 @@
+E:\Projects\dotnet\StudentCourseManagement\obj\Debug\net10.0\StudentCourseManagement.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\dotnet\StudentCourseManagement\obj\Debug\net10.0\StudentCourseManagement.AssemblyInfoInputs.cache
+E:\Projects\dotnet\StudentCourseManagement\obj\Debug\net10.0\StudentCourseManagement.AssemblyInfo.cs
+E:\Projects\dotnet\StudentCourseManagement\obj\Debug\net10.0\StudentCourseManagement.csproj.CoreCompileInputs.cache
+E:\Projects\dotnet\StudentCourseManagement\obj\Debug\net10.0\StudentCourseManagement.sourcelink.json
+E:\Projects\dotnet\StudentCourseManagement\bin\Debug\net10.0\StudentCourseManagement.exe
+E:\Projects\dotnet\StudentCourseManagement\bin\Debug\net10.0\StudentCourseManagement.deps.json
+E:\Projects\dotnet\StudentCourseManagement\bin\Debug\net10.0\StudentCourseManagement.runtimeconfig.json
+E:\Projects\dotnet\StudentCourseManagement\bin\Debug\net10.0\StudentCourseManagement.dll
+E:\Projects\dotnet\StudentCourseManagement\bin\Debug\net10.0\StudentCourseManagement.pdb
+E:\Projects\dotnet\StudentCourseManagement\obj\Debug\net10.0\StudentCourseManagement.dll
+E:\Projects\dotnet\StudentCourseManagement\obj\Debug\net10.0\refint\StudentCourseManagement.dll
+E:\Projects\dotnet\StudentCourseManagement\obj\Debug\net10.0\StudentCourseManagement.pdb
+E:\Projects\dotnet\StudentCourseManagement\obj\Debug\net10.0\StudentCourseManagement.genruntimeconfig.cache
+E:\Projects\dotnet\StudentCourseManagement\obj\Debug\net10.0\ref\StudentCourseManagement.dll

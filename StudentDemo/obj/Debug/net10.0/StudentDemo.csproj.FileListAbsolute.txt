@@ -1,0 +1,15 @@
+E:\Projects\dotnet\StudentDemo\obj\Debug\net10.0\StudentDemo.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\dotnet\StudentDemo\obj\Debug\net10.0\StudentDemo.AssemblyInfoInputs.cache
+E:\Projects\dotnet\StudentDemo\obj\Debug\net10.0\StudentDemo.AssemblyInfo.cs
+E:\Projects\dotnet\StudentDemo\obj\Debug\net10.0\StudentDemo.csproj.CoreCompileInputs.cache
+E:\Projects\dotnet\StudentDemo\obj\Debug\net10.0\StudentDemo.sourcelink.json
+E:\Projects\dotnet\StudentDemo\bin\Debug\net10.0\StudentDemo.exe
+E:\Projects\dotnet\StudentDemo\bin\Debug\net10.0\StudentDemo.deps.json
+E:\Projects\dotnet\StudentDemo\bin\Debug\net10.0\StudentDemo.runtimeconfig.json
+E:\Projects\dotnet\StudentDemo\bin\Debug\net10.0\StudentDemo.dll
+E:\Projects\dotnet\StudentDemo\bin\Debug\net10.0\StudentDemo.pdb
+E:\Projects\dotnet\StudentDemo\obj\Debug\net10.0\StudentDemo.dll
+E:\Projects\dotnet\StudentDemo\obj\Debug\net10.0\refint\StudentDemo.dll
+E:\Projects\dotnet\StudentDemo\obj\Debug\net10.0\StudentDemo.pdb
+E:\Projects\dotnet\StudentDemo\obj\Debug\net10.0\StudentDemo.genruntimeconfig.cache
+E:\Projects\dotnet\StudentDemo\obj\Debug\net10.0\ref\StudentDemo.dll

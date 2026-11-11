@@ -1,0 +1,15 @@
+E:\Projects\dotnet\DateDemo\bin\Debug\net10.0\DateDemo.exe
+E:\Projects\dotnet\DateDemo\bin\Debug\net10.0\DateDemo.deps.json
+E:\Projects\dotnet\DateDemo\bin\Debug\net10.0\DateDemo.runtimeconfig.json
+E:\Projects\dotnet\DateDemo\bin\Debug\net10.0\DateDemo.dll
+E:\Projects\dotnet\DateDemo\bin\Debug\net10.0\DateDemo.pdb
+E:\Projects\dotnet\DateDemo\obj\Debug\net10.0\DateDemo.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\dotnet\DateDemo\obj\Debug\net10.0\DateDemo.AssemblyInfoInputs.cache
+E:\Projects\dotnet\DateDemo\obj\Debug\net10.0\DateDemo.AssemblyInfo.cs
+E:\Projects\dotnet\DateDemo\obj\Debug\net10.0\DateDemo.csproj.CoreCompileInputs.cache
+E:\Projects\dotnet\DateDemo\obj\Debug\net10.0\DateDemo.sourcelink.json
+E:\Projects\dotnet\DateDemo\obj\Debug\net10.0\DateDemo.dll
+E:\Projects\dotnet\DateDemo\obj\Debug\net10.0\refint\DateDemo.dll
+E:\Projects\dotnet\DateDemo\obj\Debug\net10.0\DateDemo.pdb
+E:\Projects\dotnet\DateDemo\obj\Debug\net10.0\DateDemo.genruntimeconfig.cache
+E:\Projects\dotnet\DateDemo\obj\Debug\net10.0\ref\DateDemo.dll
