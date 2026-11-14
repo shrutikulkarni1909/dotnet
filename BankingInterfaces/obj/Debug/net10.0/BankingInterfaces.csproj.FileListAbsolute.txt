@@ -1,0 +1,15 @@
+E:\Projects\dotnet\BankingInterfaces\bin\Debug\net10.0\BankingInterfaces.exe
+E:\Projects\dotnet\BankingInterfaces\bin\Debug\net10.0\BankingInterfaces.deps.json
+E:\Projects\dotnet\BankingInterfaces\bin\Debug\net10.0\BankingInterfaces.runtimeconfig.json
+E:\Projects\dotnet\BankingInterfaces\bin\Debug\net10.0\BankingInterfaces.dll
+E:\Projects\dotnet\BankingInterfaces\bin\Debug\net10.0\BankingInterfaces.pdb
+E:\Projects\dotnet\BankingInterfaces\obj\Debug\net10.0\BankingInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\dotnet\BankingInterfaces\obj\Debug\net10.0\BankingInterfaces.AssemblyInfoInputs.cache
+E:\Projects\dotnet\BankingInterfaces\obj\Debug\net10.0\BankingInterfaces.AssemblyInfo.cs
+E:\Projects\dotnet\BankingInterfaces\obj\Debug\net10.0\BankingInterfaces.csproj.CoreCompileInputs.cache
+E:\Projects\dotnet\BankingInterfaces\obj\Debug\net10.0\BankingInterfaces.sourcelink.json
+E:\Projects\dotnet\BankingInterfaces\obj\Debug\net10.0\BankingInterfaces.dll
+E:\Projects\dotnet\BankingInterfaces\obj\Debug\net10.0\refint\BankingInterfaces.dll
+E:\Projects\dotnet\BankingInterfaces\obj\Debug\net10.0\BankingInterfaces.pdb
+E:\Projects\dotnet\BankingInterfaces\obj\Debug\net10.0\BankingInterfaces.genruntimeconfig.cache
+E:\Projects\dotnet\BankingInterfaces\obj\Debug\net10.0\ref\BankingInterfaces.dll
