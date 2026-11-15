@@ -1,0 +1,15 @@
+E:\Projects\dotnet\Indexerdemo\obj\Debug\net10.0\Indexerdemo.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\dotnet\Indexerdemo\obj\Debug\net10.0\Indexerdemo.AssemblyInfoInputs.cache
+E:\Projects\dotnet\Indexerdemo\obj\Debug\net10.0\Indexerdemo.AssemblyInfo.cs
+E:\Projects\dotnet\Indexerdemo\obj\Debug\net10.0\Indexerdemo.csproj.CoreCompileInputs.cache
+E:\Projects\dotnet\Indexerdemo\obj\Debug\net10.0\Indexerdemo.sourcelink.json
+E:\Projects\dotnet\Indexerdemo\bin\Debug\net10.0\Indexerdemo.exe
+E:\Projects\dotnet\Indexerdemo\bin\Debug\net10.0\Indexerdemo.deps.json
+E:\Projects\dotnet\Indexerdemo\bin\Debug\net10.0\Indexerdemo.runtimeconfig.json
+E:\Projects\dotnet\Indexerdemo\bin\Debug\net10.0\Indexerdemo.dll
+E:\Projects\dotnet\Indexerdemo\bin\Debug\net10.0\Indexerdemo.pdb
+E:\Projects\dotnet\Indexerdemo\obj\Debug\net10.0\Indexerdemo.dll
+E:\Projects\dotnet\Indexerdemo\obj\Debug\net10.0\refint\Indexerdemo.dll
+E:\Projects\dotnet\Indexerdemo\obj\Debug\net10.0\Indexerdemo.pdb
+E:\Projects\dotnet\Indexerdemo\obj\Debug\net10.0\Indexerdemo.genruntimeconfig.cache
+E:\Projects\dotnet\Indexerdemo\obj\Debug\net10.0\ref\Indexerdemo.dll
