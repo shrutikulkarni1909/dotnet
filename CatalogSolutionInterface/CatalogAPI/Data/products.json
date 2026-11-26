@@ -1,0 +1,63 @@
+
+[
+  {
+    "Id": 1,
+    "Title": "Gerbera",
+    "Stock": 150,
+    "Price": 9
+  },
+  {
+    "Id": 2,
+    "Title": "Lotus",
+    "Stock": 30,
+    "Price": 12
+  },
+  {
+    "Id": 3,
+    "Title": "Sunflower",
+    "Stock": 40,
+    "Price": 8
+  },
+  {
+    "Id": 4,
+    "Title": "Jasmine",
+    "Stock": 60,
+    "Price": 5
+  },
+  {
+    "Id": 5,
+    "Title": "Tulip",
+    "Stock": 25,
+    "Price": 15
+  },
+  {
+    "Id": 6,
+    "Title": "Lily",
+    "Stock": 35,
+    "Price": 11
+  },
+  {
+    "Id": 7,
+    "Title": "Orchid",
+    "Stock": 20,
+    "Price": 14
+  },
+  {
+    "Id": 8,
+    "Title": "Marigold",
+    "Stock": 45,
+    "Price": 7
+  },
+  {
+    "Id": 9,
+    "Title": "Hibiscus",
+    "Stock": 55,
+    "Price": 9
+  },
+  {
+    "Id": 10,
+    "Title": "Daisy",
+    "Stock": 30,
+    "Price": 6
+  }
+]

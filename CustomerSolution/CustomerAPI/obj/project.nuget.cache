@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "wMCg+w6ZrRU=",
+  "success": true,
+  "projectFilePath": "E:\\Projects\\dotnet\\CustomerSolution\\CustomerAPI\\CustomerAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Shrutick\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.15\\microsoft.aspnetcore.openapi.10.0.15.nupkg.sha512",
+    "C:\\Users\\Shrutick\\.nuget\\packages\\microsoft.openapi\\2.13.0\\microsoft.openapi.2.13.0.nupkg.sha512"
+  ],
+  "logs": []
+}
